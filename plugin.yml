@@ -1,0 +1,4 @@
+name: xSkyblock
+main: Fadhel\xSkyBlock\Main
+version: 1.0.0
+api: 3.0.0
